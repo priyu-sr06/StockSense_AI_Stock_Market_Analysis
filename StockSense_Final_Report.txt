@@ -1,0 +1,35 @@
+
+========================================
+       STOCKSENSE PROJECT REPORT
+========================================
+
+Project: AI-Powered Stock Market Trend Analysis
+
+Stock Analyzed: RELIANCE.NS
+
+Latest Closing Price: 1344.80
+
+Daily Price Change: 0.38%
+
+RSI Value: 71.59
+
+Market Trend: Bullish
+
+Machine Learning Model: Random Forest
+
+Predicted Direction: UP
+
+Probability of UP: 57.21%
+
+Probability of DOWN: 42.79%
+
+========================================
+Technology Used:
+Python, Pandas, NumPy, Yahoo Finance,
+Matplotlib, Plotly, Scikit-learn.
+
+========================================
+Disclaimer:
+This project is developed for educational
+and research purposes only.
+========================================
